@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gabriel Gonçalves</h1>
 <h3 align="center">A passionate Full-Stack developer student from Brazil</h3>
 
-- 👨‍💻 All of my projects are available at [https://gabriel-goncalves.github.io/](https://gabriel-goncalves.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://gabriel-goncalves.github.io/)
 
 - 📫 How to reach me **gabrielgm2898@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel-goncalves-medeiros" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabriel-goncalves-medeiros" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel-goncalves-medeiros" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabriel-goncalves-medeiros" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
