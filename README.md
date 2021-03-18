@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gabriel Gonçalves.</h1>
-<h3 align="center">A passionate Full-Stack developer student from Brazil.</h3>
+<h1 align="center">Hi 👋, I'm Gabriel Gonçalves</h1>
+<h3 align="center">A passionate Full-Stack developer student from Brazil</h3>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://gabriel-goncalves.github.io/).
 
-- 📫 How to reach me **gabrielgm2898@gmail.com**.
+- 📫 How to reach me **gabrielgm2898@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
