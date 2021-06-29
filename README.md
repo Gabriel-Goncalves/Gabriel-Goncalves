@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-goncalves&show_icons=true&locale=en&layout=compact" alt="gabriel-goncalves" /></p>
 <br />
-<p></p>
+<p>.</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-goncalves&show_icons=true&locale=en" alt="gabriel-goncalves" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-goncalves&" alt="gabriel-goncalves" /></p>
