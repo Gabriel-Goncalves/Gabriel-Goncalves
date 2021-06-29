@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Gonçalves</h1>
 <h3 align="center">A passionate Full-Stack developer student from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-goncalves&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-goncalves" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://gabriel-goncalves.github.io/](https://gabriel-goncalves.github.io/)
 
 - 📫 How to reach me **gabriel_98gm@gmail.com**
