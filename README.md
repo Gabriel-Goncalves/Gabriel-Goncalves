@@ -19,3 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-goncalves&" alt="gabriel-goncalves" /></p>
 <p><img align="center" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612980796390.png" alt="my octocat" width="380px" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-goncalves&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-goncalves" /> </p>
+
