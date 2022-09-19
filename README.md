@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate Full-Stack developer student from Brazil</h3>
 
-- 🔭 I’m currently working at [D3 Company](https://www.linkedin.com/company/d3-company/mycompany/)
+- 🔭 I’m currently working at [Mercado Livre](https://www.linkedin.com/company/mercadolivre-com)
 
 - 👨‍💻 All of my projects are available at [https://gabriel-goncalves.github.io/](https://gabriel-goncalves.github.io/)
 
